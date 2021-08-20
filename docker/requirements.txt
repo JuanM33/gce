@@ -1,0 +1,4 @@
+google-api-core
+google-auth
+google-cloud-pubsub
+google-cloud-logging
